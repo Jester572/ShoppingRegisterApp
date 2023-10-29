@@ -11,7 +11,7 @@ The shopping_tickets program is a program written in python that implements the 
 This program was written to keep track of the amount of inventory that leaves a store. It also provides an automatic daily report. 
 
 
-[Software Demo Video](https://youtu.be/AlcRVNi2wDQ)
+[Software Demo Video](https://youtu.be/_cH5YHDvlNM)
 
 # Cloud Database
 
