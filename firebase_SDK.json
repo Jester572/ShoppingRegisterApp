@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "apartment-lease",
+  "private_key_id": "f29d046467e2b647fa1865d615d3581c7c3944f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0SuDyF99pP/3O\nwOkYTOAH03LdCuQjJHtiZSW5Nvw76ko+cZGJQ2LnfTPdpBAJI+jZ6WCnt79PfLWA\ncFNZH1sIzwVpAl7bqgsc61DUgzzHFOBmjtjT5EEQ6JFKANDsPBdQQa1SejTyTgNk\nVx3fnUIf7uD/kjzqWrjAU0V7WECsZfm2hQcTxs81csD9cVUqKvN49jn6/3h29qeO\n7ODeP4THPtGsOUO/AdkROBXRk1kONvxeG2pmNz+eH4i89lGBLmS214OUAnPmyR9W\ngyM1SdIWXAzghBpmcglbN1Y4PZenuxdj4KtGfGCptnDE1vD0dU9IV2VjVDAT0ZDr\nkS24I6yNAgMBAAECggEAM2OEanzTeTR8K4pg5kRDNvfWLZsFG98yLAGYlwpNKubE\n8rd8PBuw/Tp6pho1V+WcYUBcBHIjXYy2Tz21BBoj4Ibhi+TZFNOLB1srVudxU21n\n6NOeigbtZNxlTSqeYjdejcmqlW+v18DUxqzuHua8Ck4UY8RTCJmDP458p4OoK3sK\nUs5efD2unrE0andt5WMjIYqKy0ZW+UWjMAdHESHp9jiWEul1RkLQc1cTwEtFvOcd\nVNnhC95OuKCUGjFnATBTl9/P9KMwYKp6VyofZK/4mLcj6ieEIsSXRxCsWboOTGw6\n/4qqsD37YoBpiKvBKh7PIR/wHffbnHGZZgx0qLG9IQKBgQDv3uyXfdGw8qU5ZK2H\nhaverxxduKnj6Ue4hYA9DSwZPeC2CtjjcKYGAubrxK4ryUxi3DB6jV9K2eThSZ7W\nNDFc6Sqdja1S9SdJ1oY0c6TYfBehZ9c+WswraA6VbzvBlkLzN/hJEcd1eScQLDMX\nyzcioXQoudeNIYNshu2JShpEzwKBgQDAamN2yTXDpEWJ2Ump8eKfohXFmCnqEygh\nSDZF2mGoYfkvGP7oQjAY61mCUOIGPIR/eCvCtTiCilnV5fINTONPZJjydlZgJqgm\n08xiOCttCjWONU/NUq6cHj8uf3aZIakoERQ1Gwru6SKQKdXRL9JGhuMAK/Q6S3o+\n0fnHcVkH4wKBgQCbwEori7zugn+aJq8ugjM5IsbubAuUO1Mgkz7TZYwuz6jrS1vN\nQsXqvVOn30ugjtKUlpi72rP3bEhbqGwEdltfEt9i8i2K4jgij7MQt85f6yOE4GI4\n0MglnylpCpLofmL2fm8vMuYqdwJQVALQ/ljMmb1M/G7j6tDlVS9Dp+QqrQKBgD4U\n1VypFNC3urv8QHk1kvIAYNfs/XEJl0QNwX0ONb4XRke839neKRiRLsMOB68NbY6X\nHj9nKwFrVArgcxV5fknKYlKwfbPuJQjKA0KZbuFyjs8AQmwzxiSW2bnN5F0J8EL+\nJ6/utrtYuw8agGNK86RPtwQCKn14hsuoAdgoqRoTAoGBAJVwR+EL7DnibdbxT4Tj\njO736rWhalBn2oT6/QkNGDH0KaeZoUoFX1nYNlp85rTPQ5Y0lesrLNyz/eK/6tbD\ncTwS8X0+/QzUBWOXtq63yE02dbAe5CZdWL61LMhW8l5oWWtydgydRyxaNLq5Wz12\nQhOTYWt3lBr+fzqkyMzPmvQ7\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kfgy6@apartment-lease.iam.gserviceaccount.com",
+  "client_id": "102801564205921239241",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kfgy6%40apartment-lease.iam.gserviceaccount.com"
+  
+}
